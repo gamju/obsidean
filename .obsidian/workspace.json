@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "일지 TODO/1115.md",
+                "file": "Todo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e00763fc35c68e82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일지 TODO/1116.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "일지 TODO/1115.md",
+                "file": "일지 TODO/1116.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "일지 TODO/1115.md",
+                "file": "일지 TODO/1116.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,11 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "일지 TODO/1115.md"
+                "file": "일지 TODO/1116.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,14 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac3e81253dea7dc1",
+  "active": "e00763fc35c68e82",
   "lastOpenFiles": [
     "Todo.md",
-    "Untitled.canvas",
+    "일지 TODO/1116.md",
+    "일지 TODO/1115.md",
     "2023-11-16.md",
+    "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "일지 TODO/1115.md",
     "프로젝트/OCR/검출모델/검출모델.md",
     "일지_todo/1106.md",
     "TIP/Linux tip.md",
