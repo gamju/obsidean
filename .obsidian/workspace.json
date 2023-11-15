@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Todo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1ffd945b0a1ed50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "일지 TODO/1116.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d46ec6f5bf1a486",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로젝트/OCR/검출모델/검출모델.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "일지 TODO/1116.md",
+                "file": "프로젝트/OCR/검출모델/검출모델.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "일지 TODO/1116.md",
+                "file": "프로젝트/OCR/검출모델/검출모델.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "일지 TODO/1116.md"
+                "file": "프로젝트/OCR/검출모델/검출모델.md"
               }
             }
           }
@@ -159,9 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e00763fc35c68e82",
+  "active": "6d46ec6f5bf1a486",
   "lastOpenFiles": [
     "Todo.md",
+    "README.md",
+    "ocr project.md",
+    "DB현황.md",
+    "프로젝트/CARD.md",
     "일지 TODO/1116.md",
     "일지 TODO/1115.md",
     "2023-11-16.md",
@@ -173,8 +201,6 @@
     "TIP/Linux tip.md",
     "TIP/Container 복사.md",
     "서버 현황.md",
-    "DB현황.md",
-    "ocr project.md",
     "프로젝트/OCR/Tesseract/사용법.md",
     "일지 TODO/1108.md",
     "일지_TODO/1110.md",
@@ -191,8 +217,6 @@
     "프로젝트/OCR/TOOL/tesseract test.md",
     "tool 설명.md",
     "프로젝트/OCR/TOOL",
-    "segmentation model.md",
-    "프로젝트/CARD.md",
     "기타",
     "OCR",
     "TIP",
