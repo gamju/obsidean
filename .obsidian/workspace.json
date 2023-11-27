@@ -169,6 +169,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Todo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d33e7b7ccc3eda21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "일지 TODO/1127.md",
                 "mode": "source",
                 "source": false
@@ -176,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -302,9 +314,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "109a023195699fce",
+  "active": "d33e7b7ccc3eda21",
   "lastOpenFiles": [
     "Todo.md",
+    "서버 현황.md",
+    "일지 TODO/1127.md",
     "일지 TODO/1117.md",
     "일지 TODO/1116.md",
     "일지 TODO/1123.md",
@@ -312,14 +326,12 @@
     "일지 TODO/1121.md",
     "일지 TODO/1122.md",
     "일지 TODO/1124.md",
-    "일지 TODO/1127.md",
     "TIP/Linux tip.md",
     "프로젝트/OCR/검출모델/검출모델.md",
     "기타/기타.md",
     "README.md",
     "ocr project.md",
     "DB현황.md",
-    "서버 현황.md",
     "일지 TODO/1115.md",
     "프로젝트/CARD.md",
     "2023-11-16.md",
