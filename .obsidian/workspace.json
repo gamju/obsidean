@@ -133,14 +133,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "일지 TODO/1123.md",
+                "file": "Todo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9799f5d708bd5e23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd58a875569a2f4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일지 TODO/1127.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -206,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "일지 TODO/1123.md",
+                "file": "일지 TODO/1127.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "일지 TODO/1123.md",
+                "file": "일지 TODO/1127.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "일지 TODO/1123.md"
+                "file": "일지 TODO/1127.md"
               }
             }
           }
@@ -266,16 +290,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "035c1b5e8b47da5a",
+  "active": "fd58a875569a2f4e",
   "lastOpenFiles": [
     "Todo.md",
+    "일지 TODO/1127.md",
+    "일지 TODO/1124.md",
     "일지 TODO/1123.md",
+    "TIP/Linux tip.md",
     "일지 TODO/1122.md",
     "일지 TODO/1121.md",
     "일지 TODO/1120.md",
     "일지 TODO/1117.md",
     "프로젝트/OCR/검출모델/검출모델.md",
-    "TIP/Linux tip.md",
     "기타/기타.md",
     "README.md",
     "ocr project.md",
@@ -295,9 +321,7 @@
     "일지_TODO/1110.md",
     "일지 todo/1109.md",
     "일지_todo/1110.md",
-    "일지/1110.md",
     "일지",
-    "일지 TODO/1109.md",
     "일지 TODO",
     "프로젝트/OCR/TOOL",
     "기타",
