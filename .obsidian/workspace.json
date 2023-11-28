@@ -193,7 +193,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "일지 TODO/1128.md",
+                "file": "서버 및 계정 현황.md",
                 "mode": "source",
                 "source": false
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "일지 TODO/1128.md",
+                "file": "서버 및 계정 현황.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "일지 TODO/1128.md",
+                "file": "서버 및 계정 현황.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "일지 TODO/1128.md"
+                "file": "서버 및 계정 현황.md"
               }
             }
           }
@@ -328,10 +328,11 @@
   },
   "active": "cc96a5718a483bbc",
   "lastOpenFiles": [
-    "일지 TODO/1127.md",
+    "DB현황.md",
     "일지 TODO/1128.md",
+    "일지 TODO/1127.md",
     "Todo.md",
-    "서버 현황.md",
+    "서버 및 계정 현황.md",
     "일지 TODO/1117.md",
     "일지 TODO/1116.md",
     "일지 TODO/1123.md",
@@ -344,7 +345,6 @@
     "기타/기타.md",
     "README.md",
     "ocr project.md",
-    "DB현황.md",
     "일지 TODO/1115.md",
     "프로젝트/CARD.md",
     "2023-11-16.md",
