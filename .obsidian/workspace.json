@@ -193,7 +193,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "서버 및 계정 현황.md",
+                "file": "일지 TODO/1122.md",
                 "mode": "source",
                 "source": false
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "서버 및 계정 현황.md",
+                "file": "일지 TODO/1122.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "서버 및 계정 현황.md",
+                "file": "일지 TODO/1122.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "서버 및 계정 현황.md"
+                "file": "일지 TODO/1122.md"
               }
             }
           }
@@ -328,20 +328,25 @@
   },
   "active": "cc96a5718a483bbc",
   "lastOpenFiles": [
-    "DB현황.md",
-    "일지 TODO/1128.md",
-    "일지 TODO/1127.md",
-    "Todo.md",
-    "서버 및 계정 현황.md",
-    "일지 TODO/1117.md",
-    "일지 TODO/1116.md",
-    "일지 TODO/1123.md",
-    "일지 TODO/1120.md",
     "일지 TODO/1121.md",
     "일지 TODO/1122.md",
+    "일지 TODO/1120.md",
+    "일지 TODO/1117.md",
+    "Todo.md",
+    "일지 TODO/1109.md",
+    "일지_todo/1106.md",
+    "일지_todo/1103.md",
+    "일지_todo/1101.md",
+    "DB현황.md",
+    "일지_todo/1107.md",
+    "프로젝트/OCR/검출모델/검출모델.md",
+    "서버 및 계정 현황.md",
+    "일지 TODO/1128.md",
+    "일지 TODO/1127.md",
+    "일지 TODO/1116.md",
+    "일지 TODO/1123.md",
     "일지 TODO/1124.md",
     "TIP/Linux tip.md",
-    "프로젝트/OCR/검출모델/검출모델.md",
     "기타/기타.md",
     "README.md",
     "ocr project.md",
@@ -351,12 +356,7 @@
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "일지_todo/1106.md",
     "TIP/Container 복사.md",
-    "프로젝트/OCR/Tesseract/사용법.md",
-    "일지 TODO/1108.md",
-    "일지_TODO/1110.md",
-    "일지 todo/1109.md",
     "일지",
     "일지 TODO",
     "프로젝트/OCR/TOOL",
