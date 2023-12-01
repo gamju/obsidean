@@ -193,14 +193,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "일지 TODO/1122.md",
+                "file": "Todo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c370e53f2509df1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일지 TODO/1108.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -246,7 +258,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -266,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "일지 TODO/1122.md",
+                "file": "일지 TODO/1108.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +296,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "일지 TODO/1122.md",
+                "file": "일지 TODO/1108.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +319,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "일지 TODO/1122.md"
+                "file": "일지 TODO/1108.md"
               }
             }
           }
@@ -326,37 +339,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc96a5718a483bbc",
+  "active": "c370e53f2509df1e",
   "lastOpenFiles": [
-    "일지 TODO/1121.md",
-    "일지 TODO/1122.md",
-    "일지 TODO/1120.md",
-    "일지 TODO/1117.md",
-    "Todo.md",
+    "일지_todo/1110.md",
     "일지 TODO/1109.md",
-    "일지_todo/1106.md",
-    "일지_todo/1103.md",
-    "일지_todo/1101.md",
-    "DB현황.md",
+    "일지 TODO/1108.md",
     "일지_todo/1107.md",
-    "프로젝트/OCR/검출모델/검출모델.md",
-    "서버 및 계정 현황.md",
-    "일지 TODO/1128.md",
-    "일지 TODO/1127.md",
-    "일지 TODO/1116.md",
-    "일지 TODO/1123.md",
-    "일지 TODO/1124.md",
-    "TIP/Linux tip.md",
-    "기타/기타.md",
+    "일지_todo/1106.md",
+    "프로젝트/CARD.md",
+    "프로젝트/OCR/수습세미나.md",
+    "프로젝트/OCR/TOOL/tesseract test.md",
+    "일지_todo/1103.md",
+    "Todo.md",
+    "일지_todo/1101.md",
+    "일지_todo/1010.md",
+    "일지_todo/1004.md",
+    "일지_todo/0926.md",
+    "일지_todo/0925.md",
     "README.md",
     "ocr project.md",
+    "DB현황.md",
+    "서버 및 계정 현황.md",
+    "기타/기타.md",
     "일지 TODO/1115.md",
-    "프로젝트/CARD.md",
-    "2023-11-16.md",
+    "일지 TODO/1116.md",
+    "일지 TODO/1117.md",
+    "일지 TODO/1120.md",
+    "일지 TODO/1121.md",
+    "일지 TODO/1122.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "TIP/Container 복사.md",
     "일지",
     "일지 TODO",
     "프로젝트/OCR/TOOL",
