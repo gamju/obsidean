@@ -265,14 +265,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "서버 및 계정 현황.md",
+                "file": "Todo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "744ea8b20231d171",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일지/12월.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -338,7 +350,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "서버 및 계정 현황.md",
+                "file": "일지/12월.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +367,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "서버 및 계정 현황.md",
+                "file": "일지/12월.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +390,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "서버 및 계정 현황.md"
+                "file": "일지/12월.md"
               }
             }
           }
@@ -398,15 +410,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "515f06e281768b5c",
+  "active": "744ea8b20231d171",
   "lastOpenFiles": [
+    "Todo.md",
+    "일지/12월.md",
+    "일지/11월.md",
+    "서버 및 계정 현황.md",
     "README.md",
     "DB현황.md",
     "일지_TODO/1201.md",
-    "Todo.md",
-    "서버 및 계정 현황.md",
     "일지_todo/1201.md",
-    "일지/11월.md",
     "일지/9월.md",
     "일지/10월.md",
     "일지_todo/1010.md",
@@ -426,7 +439,6 @@
     "일지_todo/0925.md",
     "ocr project.md",
     "기타/기타.md",
-    "일지 TODO/1115.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
