@@ -282,9 +282,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a1ce123c70c09a77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일지_todo/1206.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 22
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -350,7 +362,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "일지/12월.md",
+                "file": "일지_todo/1206.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,7 +379,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "일지/12월.md",
+                "file": "일지_todo/1206.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -390,7 +402,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "일지/12월.md"
+                "file": "일지_todo/1206.md"
               }
             }
           }
@@ -410,10 +422,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "744ea8b20231d171",
+  "active": "a1ce123c70c09a77",
   "lastOpenFiles": [
-    "Todo.md",
     "일지/12월.md",
+    "일지_todo/1206.md",
+    "Todo.md",
     "일지/11월.md",
     "서버 및 계정 현황.md",
     "README.md",
@@ -438,7 +451,6 @@
     "일지_todo/0926.md",
     "일지_todo/0925.md",
     "ocr project.md",
-    "기타/기타.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
