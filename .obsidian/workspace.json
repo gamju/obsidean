@@ -301,7 +301,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "일지_todo/1206.md",
+                "file": "Todo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6911442eb7ff605",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일지/12월.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fed5958917cf11ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일지 todo/1207.md",
                 "mode": "source",
                 "source": false
               }
@@ -320,7 +344,7 @@
             }
           }
         ],
-        "currentTab": 24
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -386,7 +410,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "일지_todo/1206.md",
+                "file": "일지 todo/1207.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -403,7 +427,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "일지_todo/1206.md",
+                "file": "일지 todo/1207.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -426,7 +450,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "일지_todo/1206.md"
+                "file": "일지 todo/1207.md"
               }
             }
           }
@@ -446,13 +470,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95095c25a12a8517",
+  "active": "fed5958917cf11ae",
   "lastOpenFiles": [
     "일지/12월.md",
-    "일지 todo/1205.md",
-    "일지_todo/1206.md",
-    "일지 TODO/1205.md",
+    "일지 TODO/1207.md",
+    "일지 todo/1207.md",
     "Todo.md",
+    "일지_todo/1206.md",
+    "일지 todo/1205.md",
+    "일지 TODO/1205.md",
     "일지/11월.md",
     "서버 및 계정 현황.md",
     "README.md",
@@ -473,8 +499,6 @@
     "프로젝트/OCR/TOOL/tesseract test.md",
     "일지_todo/1103.md",
     "일지_todo/1101.md",
-    "일지_todo/1004.md",
-    "일지_todo/0926.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
