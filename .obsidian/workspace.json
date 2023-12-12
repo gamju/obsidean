@@ -349,7 +349,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "일지 todo/1211.md",
+                "file": "프로젝트/OCR/검출모델/검출모델.md",
                 "mode": "source",
                 "source": false
               }
@@ -434,7 +434,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "일지 todo/1211.md",
+                "file": "프로젝트/OCR/검출모델/검출모델.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -451,7 +451,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "일지 todo/1211.md",
+                "file": "프로젝트/OCR/검출모델/검출모델.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -474,7 +474,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "일지 todo/1211.md"
+                "file": "프로젝트/OCR/검출모델/검출모델.md"
               }
             }
           }
@@ -496,10 +496,10 @@
   },
   "active": "1a2493f78fef333d",
   "lastOpenFiles": [
+    "일지 todo/1211.md",
     "일지/12월.md",
     "Todo.md",
     "일지 todo/1207.md",
-    "일지 todo/1211.md",
     "일지 TODO/1211.md",
     "일지 TODO/1207.md",
     "일지_todo/1206.md",
