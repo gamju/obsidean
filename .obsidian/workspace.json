@@ -373,7 +373,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "[[일지 todo/1214.md",
+                "file": "일지/12월.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff61706ca1251fde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일지 todo/1215.md",
                 "mode": "source",
                 "source": false
               }
@@ -388,7 +400,7 @@
             }
           }
         ],
-        "currentTab": 30
+        "currentTab": 31
       }
     ],
     "direction": "vertical"
@@ -454,7 +466,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "[[일지 todo/1214.md",
+                "file": "일지 todo/1215.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -471,7 +483,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "[[일지 todo/1214.md",
+                "file": "일지 todo/1215.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -494,7 +506,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "[[일지 todo/1214.md"
+                "file": "일지 todo/1215.md"
               }
             }
           }
@@ -514,11 +526,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c871c96321e4a962",
+  "active": "ff61706ca1251fde",
   "lastOpenFiles": [
     "일지/12월.md",
+    "일지 TODO/1215.md",
+    "일지 todo/1215.md",
     "Todo.md",
     "[[일지 todo/1214.md",
+    "서버 및 계정 현황.md",
     "일지 TODO/1211.md",
     "일지 TODO/1213.md",
     "[[일지 todo",
@@ -526,7 +541,6 @@
     "DB현황.md",
     "프로젝트/OCR/TOOL/tesseract test.md",
     "일지 todo/1213.md",
-    "서버 및 계정 현황.md",
     "프로젝트/OCR/검출모델/검출모델.md",
     "일지 todo/1211.md",
     "일지 todo/1207.md",
@@ -542,8 +556,6 @@
     "일지/10월.md",
     "일지_todo/1010.md",
     "일지",
-    "일지 TODO/1108.md",
-    "일지_todo/1110.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
