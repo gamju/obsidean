@@ -397,7 +397,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "일지 todo/1221.md",
+                "file": "일지/12월.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aff46bc11ce8541a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일지 todo/1222.md",
                 "mode": "source",
                 "source": false
               }
@@ -412,7 +424,7 @@
             }
           }
         ],
-        "currentTab": 32
+        "currentTab": 33
       }
     ],
     "direction": "vertical"
@@ -478,7 +490,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "일지 todo/1221.md",
+                "file": "일지 todo/1222.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -495,7 +507,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "일지 todo/1221.md",
+                "file": "일지 todo/1222.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -518,7 +530,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "일지 todo/1221.md"
+                "file": "일지 todo/1222.md"
               }
             }
           }
@@ -538,12 +550,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dcd052400c8c6a77",
+  "active": "aff46bc11ce8541a",
   "lastOpenFiles": [
     "일지/12월.md",
-    "일지 TODO/1221.md",
-    "일지 todo/1221.md",
+    "일지 TODO/1222.md",
+    "일지 todo/1222.md",
     "Todo.md",
+    "일지 todo/1221.md",
+    "일지 TODO/1221.md",
     "일지 todo/1215.md",
     "프로젝트/OCR/검출모델/검출모델.md",
     "DB현황.md",
@@ -565,8 +579,6 @@
     "일지 TODO/1205.md",
     "일지/11월.md",
     "README.md",
-    "일지_TODO/1201.md",
-    "일지_todo/1201.md",
     "일지",
     "Untitled.canvas",
     "Untitled 1.canvas",
