@@ -1,5 +1,5 @@
 vim /etc/wsl.conf
-sh: 1: /mnt/c/Users/<유저명>/.vscode/extensions/ms-vscode-remote.remote-wsl-0.88.5/scripts/wslServer.sh: Permission denied
+증상: sh: 1: /mnt/c/Users/<유저명>/.vscode/extensions/ms-vscode-remote.remote-wsl-0.88.5/scripts/wslServer.sh: Permission denied
 ####
 "boot"
 systemd=true
