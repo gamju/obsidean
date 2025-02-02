@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영어기록/20241231.md",
+                "file": "wsl 관련/사운드 설치.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 20241231"
+              "title": "Backlinks for 사운드 설치"
             }
           },
           {
@@ -184,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영어기록/20241231.md",
+                "file": "wsl 관련/사운드 설치.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 20241231"
+              "title": "Outgoing links from 사운드 설치"
             }
           },
           {
@@ -199,7 +199,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -237,7 +239,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a73644d7e174cf7",
+  "active": "af28f737e2a3e6b3",
   "lastOpenFiles": [
     "Untitled.md",
     "wsl 관련/사운드 설치.md",
