@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "625841a545bd4039",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wsl 관련/devcontainer 시작 문제.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "devcontainer 시작 문제"
+            }
+          },
+          {
+            "id": "e69435a27c493991",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wsl 관련/WSL 드라이브 이동 관련.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WSL 드라이브 이동 관련"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -55,7 +83,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -154,10 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker관련/Untitled.md"
+                "file": "wsl 관련/WSL 드라이브 이동 관련.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of WSL 드라이브 이동 관련"
             }
           }
         ],
@@ -165,7 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,9 +209,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20e6acd1187acd1f",
+  "active": "e69435a27c493991",
   "lastOpenFiles": [
+    "wsl 관련/WSL 드라이브 이동 관련.md",
     "wsl 관련/devcontainer 시작 문제.md",
+    "Untitled",
     "docker관련/Untitled.md",
     "docker관련",
     "서버 및 계정 현황.md",
@@ -211,12 +245,10 @@
     "일지 TODO/1227.md",
     "일지 TODO/1222.md",
     "일지 TODO/1221.md",
-    "프로젝트/OCR/검출모델/검출모델.md",
     "[[일지 todo",
     "일지",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Untitled 2.canvas",
-    "일지 TODO"
+    "Untitled 2.canvas"
   ]
 }
