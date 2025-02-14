@@ -1,0 +1,1 @@
+qwen coder arth, 등 특화 모델이 있는 듯
