@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VTuberProj/LLM Finetuning.md",
+                "file": "wsl 관련/docker image 설치 및 컨테이너 설치.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LLM Finetuning"
+              "title": "docker image 설치 및 컨테이너 설치"
             }
           },
           {
@@ -241,13 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VTuberProj/LLM Finetuning.md",
+                "file": "wsl 관련/docker image 설치 및 컨테이너 설치.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LLM Finetuning"
+              "title": "Outline of docker image 설치 및 컨테이너 설치"
             }
           }
         ],
@@ -269,17 +269,17 @@
   },
   "active": "44ab90f045d3cad3",
   "lastOpenFiles": [
-    "VTuberProj/LLM Finetuning.md",
+    "wsl 관련/devcontainer 시작 문제.md",
+    "wsl 관련/사운드 설치.md",
     "VTuberProj/Proj 목록.md",
+    "VTuberProj/LLM Finetuning.md",
     "VTuberProj/사운드 generation.md",
     "wsl 관련/WSL 드라이브 이동 관련.md",
     "Untitled",
     "VTuberProj/Untitled 1",
     "VTuberProj/Untitled",
     "VTuberProj",
-    "wsl 관련/사운드 설치.md",
     "Untitled.md",
-    "wsl 관련/devcontainer 시작 문제.md",
     "wsl 관련/docker image 설치 및 컨테이너 설치.md",
     "docker관련/Untitled.md",
     "docker관련",
