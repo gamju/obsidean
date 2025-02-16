@@ -10,3 +10,4 @@ https://www.youtube.com/watch?v=48s-auKj1t8
 참고 영상
 
 TTS: 텍스트 to 음성 변환
+gpt sovits
