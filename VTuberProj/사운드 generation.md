@@ -1,5 +1,5 @@
 전체 순서도
-음성 to text -> text to text(다듬어 주는 느낌으로, 필요 없을 수도??)-> text to 음성(TTS) -> 음성 to 음성(RVC)
+음성 to text(STT) -> text to text(다듬어 주는 느낌으로, 필요 없을 수도??)-> text to 음성(TTS) -> 음성 to 음성(RVC)
 
 사운드 세팅 관련
 [[사운드 설치]]
