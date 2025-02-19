@@ -14,3 +14,5 @@ https://www.youtube.com/watch?v=48s-auKj1t8
 
 TTS: 텍스트 to 음성 변환
 gpt sovits
+
+STT: open whisper?

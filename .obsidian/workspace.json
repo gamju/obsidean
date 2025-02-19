@@ -109,12 +109,14 @@
             "id": "185346f27d1cfd14",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "VTuberProj/사운드 generation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "사운드 generation"
             }
           },
           {
@@ -253,12 +255,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "VTuberProj/사운드 generation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 사운드 generation"
             }
           }
         ],
@@ -280,12 +283,12 @@
   },
   "active": "185346f27d1cfd14",
   "lastOpenFiles": [
+    "VTuberProj/LLM Finetuning.md",
     "wsl 관련/사운드 설치.md",
     "VTuberProj/사운드 generation.md",
     "wsl 관련/docker image 설치 및 컨테이너 설치.md",
     "wsl 관련/devcontainer 시작 문제.md",
     "VTuberProj/Proj 목록.md",
-    "VTuberProj/LLM Finetuning.md",
     "wsl 관련/WSL 드라이브 이동 관련.md",
     "Untitled",
     "VTuberProj/Untitled 1",
