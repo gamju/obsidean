@@ -106,6 +106,18 @@
             }
           },
           {
+            "id": "185346f27d1cfd14",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
+          },
+          {
             "id": "e69435a27c493991",
             "type": "leaf",
             "state": {
@@ -120,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -241,13 +253,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VTuberProj/사운드 generation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 사운드 generation"
+              "title": "Outline"
             }
           }
         ],
@@ -267,7 +278,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44ab90f045d3cad3",
+  "active": "185346f27d1cfd14",
   "lastOpenFiles": [
     "wsl 관련/사운드 설치.md",
     "VTuberProj/사운드 generation.md",
