@@ -15,7 +15,5 @@ https://www.youtube.com/watch?v=48s-auKj1t8
 TTS: 텍스트 to 음성 변환
 gpt sovits
 
-STT: open whisper?
-download: [주요 영역별 회의 음성](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=464) (v1.1)
-download(1) : [한국어 음성 (KsponSpeech  
-eval other)](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=123) (v1.0)
+STT: 
+[[20250220]]
