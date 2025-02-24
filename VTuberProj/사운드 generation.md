@@ -6,6 +6,7 @@
 
 RVC: 음성 to 음성 변환
 gpt sovits
+[[20250225]]
 
 예제 코드를 이용한 호시마치 스이세이 voice generation
 시작: 20250210
