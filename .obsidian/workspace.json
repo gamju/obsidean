@@ -160,9 +160,21 @@
               "icon": "lucide-file",
               "title": "WSL 드라이브 이동 관련"
             }
+          },
+          {
+            "id": "d76b85ca33478466",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -283,13 +295,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "옷관련/신발.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 신발"
+              "title": "Outline"
             }
           }
         ],
@@ -309,8 +320,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4168db11db39d80",
+  "active": "d76b85ca33478466",
   "lastOpenFiles": [
+    "선글라스홀브룩상지ㅡ.xlsx",
+    "E5D9E000",
+    "~$선글라스홀브룩상지ㅡ.xlsx",
+    "Untitled 1",
     "프로젝트/OCR/검출모델/검출모델.md",
     "docker관련/Untitled.md",
     "TIP/Linux tip.md",
@@ -339,14 +354,10 @@
     "옷관련",
     "ollama관련",
     "영어기록/20250109.md",
-    "wsl 관련",
     "영어기록/20241231.md",
     "영어.md",
     "Todo.md",
     "DB현황.md",
-    "영어",
-    "영어기록",
-    "일지/12월.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
