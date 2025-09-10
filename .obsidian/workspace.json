@@ -179,16 +179,32 @@
             "id": "cf0ad838c3ffd05e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.10"
+                "file": "영어기록/20250109.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "icon": "lucide-file",
+              "title": "20250109"
+            }
+          },
+          {
+            "id": "f188d9495ee55b51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "영어기록/20250910.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20250910"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -309,12 +325,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "영어기록/20250910.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 20250910"
             }
           }
         ],
@@ -335,8 +352,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf0ad838c3ffd05e",
+  "active": "f188d9495ee55b51",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "영어기록/20250910.md",
+    "영어기록/20250109.md",
+    "영어기록/Untitled 2",
+    "영어기록/20241231.md",
     "wsl 관련/devcontainer 시작 문제.md",
     "wsl 관련/사운드 설치.md",
     "wsl 관련/녹음 설치.md",
@@ -366,12 +388,8 @@
     "docker관련",
     "서버 및 계정 현황.md",
     "옷관련/신발.md",
-    "옷관련",
-    "영어기록/20250109.md",
-    "영어기록/20241231.md",
     "영어.md",
     "Todo.md",
-    "DB현황.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
