@@ -165,16 +165,30 @@
             "id": "d76b85ca33478466",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wsl 관련/녹음 설치.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "녹음 설치"
+            }
+          },
+          {
+            "id": "cf0ad838c3ffd05e",
+            "type": "leaf",
+            "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.8.10"
+                "currentVersion": "1.9.10"
               },
               "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "title": "Release Notes 1.9.10"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -312,6 +326,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -320,8 +335,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d76b85ca33478466",
+  "active": "cf0ad838c3ffd05e",
   "lastOpenFiles": [
+    "wsl 관련/devcontainer 시작 문제.md",
+    "wsl 관련/사운드 설치.md",
+    "wsl 관련/녹음 설치.md",
     "선글라스홀브룩상지ㅡ.xlsx",
     "E5D9E000",
     "~$선글라스홀브룩상지ㅡ.xlsx",
@@ -334,14 +352,11 @@
     "TIP/Container 복사.md",
     "VTuberProj/사운드 generation.md",
     "VTuberProj/LLM Finetuning.md",
-    "wsl 관련/사운드 설치.md",
-    "wsl 관련/녹음 설치.md",
     "20250225.md",
     "일지_todo/20250220.md",
     "VTuberProj/Proj 목록.md",
     "일지.md",
     "wsl 관련/docker image 설치 및 컨테이너 설치.md",
-    "wsl 관련/devcontainer 시작 문제.md",
     "wsl 관련/WSL 드라이브 이동 관련.md",
     "Untitled",
     "VTuberProj/Untitled 1",
@@ -352,7 +367,6 @@
     "서버 및 계정 현황.md",
     "옷관련/신발.md",
     "옷관련",
-    "ollama관련",
     "영어기록/20250109.md",
     "영어기록/20241231.md",
     "영어.md",
